@@ -76,19 +76,19 @@ Uma vez que a recarga com dinheiro segue o mesmo fluxo da compra de bilhetes uni
 As personas criadas para este projetos buscam ser o mais fiel possível às pessoas que todos os dias circulam pelas ruas de São Paulo, independente de etnia, gênero, classe social e frequência com a qual usa o transporte público. É impossível atender as demandas de todos os usuários, mas o maior esforço foi para incluir os mais diversos grupos nessas personas para que o projeto seja útil ao maior número de usuários possível.
 Além disso, todas as imagens utilizadas para os perfis são provenientes da plataforma ["This Person Does Not Exist"](https://this-person-does-not-exist.com/en) para que não sejam utilizadas fotos de pessoas reais.
 
-* [Persona 1](Personas/Persona 1.md)
-* [Persona 2](Personas/Persona 1.md)
+* <a href="Personas/Persona 1.md">Persona 1
+* <a href="Personas/Persona 2.md">Persona 2
 
 # Cenários
 Cada cenário criado corresponde a persona de respectivo número e, assim como estas, foram criados para serem os mais diversos e únicos.
 
-* [Cenário 1](Cenários/Cenário 1.md)
+* <a href="Cenários/Cenário 1.md">Cenário 1
 
 # Protótipo lo-fi
 
 A criação do protótipo lo-fi foi feita a mão seguindo as ideias do fluxo de usuário. Apesar de rudimentar, foram acrescentados botões e houve algumas alterações de layout em relação ao projeto já existente. Também foram propostas algumas animações para as telas de carregamento para fixar a atenção do usuário e aumentar seu apreço pelo sistema.
 
-###### Acesse o protótipo [aqui](Protótipo lo-fi/Lo-fi.pdf)
+###### Acesse o protótipo <a href="Protótipo lo-fi/Lo-fi.pdf">aqui
 
 # Protótipo hi-fi
 
