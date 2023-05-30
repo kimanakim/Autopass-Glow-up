@@ -94,7 +94,7 @@ A criação do protótipo lo-fi foi feita a mão seguindo as ideias do fluxo de 
 
 A criação do protótipo hi-fi foi feita por meio da plataforma proto.io e levou em conta aspectos do estado atual do projeto, os requisitos funcionais e as características das personas. Também foram levados em consideração fatores como adaptabilidade visual e cores para oferecer a melhor experiência para o usuário.
 
-###### Acesse o protótipo [aqui](Protótipo hi-fi/hi-fi.pdf)
+###### Acesse o protótipo <a href="Protótipo hi-fi/hi-fi.pdf">aqui/a>
 
 # Relatório
 
