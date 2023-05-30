@@ -88,13 +88,13 @@ Cada cenário criado corresponde a persona de respectivo número e, assim como e
 
 A criação do protótipo lo-fi foi feita a mão seguindo as ideias do fluxo de usuário. Apesar de rudimentar, foram acrescentados botões e houve algumas alterações de layout em relação ao projeto já existente. Também foram propostas algumas animações para as telas de carregamento para fixar a atenção do usuário e aumentar seu apreço pelo sistema.
 
-###### Acesse o protótipo [aqui](Protótipo lo-fi/lo-fi.pdf)
+###### Acesse o protótipo [aqui](lo-fi.pdf)
 
 # Protótipo hi-fi
 
 A criação do protótipo hi-fi foi feita por meio da plataforma proto.io e levou em conta aspectos do estado atual do projeto, os requisitos funcionais e as características das personas. Também foram levados em consideração fatores como adaptabilidade visual e cores para oferecer a melhor experiência para o usuário.
 
-###### Acesse o protótipo [aqui](Protótipo hi-fi/hi-fi.pdf)
+###### Acesse o protótipo [aqui](hi-fi.pdf)
 
 # Relatório
 
