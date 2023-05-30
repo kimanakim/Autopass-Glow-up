@@ -16,10 +16,9 @@ O termo Glow-up foi escolhido por ser uma gíria atual usada para descrever o fl
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Entregáveis](#entregáveis)
-* [[#Qualquer Coisa]]
-* [[#Tecnologias Usadas]]
-* [[#Fluxo de Usuário]]
+* [Entregáveis](#Entreg%C3%A1veis)
+* [Tecnologias Usadas](#Tecnologias%20Usadas)
+* [Fluxo de Usuário](#Fluxo%20de%20Usu%C3%A1rio)
 * [[#Personas]]
 * [[#Cenários]]
 * [[#Protótipo lo-fi]]
