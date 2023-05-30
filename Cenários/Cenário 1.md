@@ -1,5 +1,5 @@
 
-**Ator:** [Persona 1 - Joana Rocha](../personas/Persona1.md)<br/>
+**Ator:** [Persona 1 - Joana Rocha](Persona%201.md)<br/>
 **Contexto:** Indo para o trabalho voluntário na quarta-feira a tarde.<br/>
 **Evento:** Entrando na estação de metrô.<br/>
 **Objeto:** Carregar o cartão e ir para o trabalho voluntário.<br/>

@@ -3,18 +3,20 @@
 
 ## Nome: Joana Rocha
 
-## Image: 
-<img src="Persona1.png" width="100px" alt="Joana Rocha"/>
+## Foto: 
+
+
+![[Persona1.png|100]]
 
 
 ## Citação:
 
-> Virtude Sem caridade não passa de nome” Isaac Newton
+> "Virtude Sem caridade não passa de nome” Isaac Newton
 
 ##Características:
 **Idade:** 55 anos<br> 
 **Sexo:** Feminino<br> 
-**Estado Civíl:** Solteira<br> 
+**Estado Civil:** Solteira<br> 
 **Filhos:** Não<br> 
 **Ocupação:** Interditada<br> 
 **Educação:** Ensino Superior Completo
@@ -78,9 +80,9 @@ Social
 
 
 ## Marcas & Influência
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatelinha.uol.com.br%2Ffamosos%2Ftudo-sobre%2Fana-maria-braga&psig=AOvVaw23iNW9ZujWkNnqA09eV4SR&ust=1683632080438000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD7xLPQ5f4CFQAAAAAdAAAAABAD' width= '100px' alt=‘Ana Maria Braga‘>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatelinha.uol.com.br%2Ffamosos%2Ftudo-sobre%2Fana-maria-braga&psig=AOvVaw23iNW9ZujWkNnqA09eV4SR&ust=1683632080438000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD7xLPQ5f4CFQAAAAAdAAAAABAD" width= "100px" alt="Ana Maria Braga">
 
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgkpb.com.br%2F51854%2Fnovo-logo-o-boticario%2F&psig=AOvVaw1MmM-u_xwrq3mjsHtDU2A0&ust=1683632111221000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDMzsHQ5f4CFQAAAAAdAAAAABAD' width= '100px' alt=‘O Boticário>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgkpb.com.br%2F51854%2Fnovo-logo-o-boticario%2F&psig=AOvVaw1MmM-u_xwrq3mjsHtDU2A0&ust=1683632111221000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDMzsHQ5f4CFQAAAAAdAAAAABAD" width= "100px" alt="O Boticário">
 
 
 ## Canais Preferidos

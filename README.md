@@ -17,26 +17,25 @@ O termo Glow-up foi escolhido por ser uma gíria atual usada para descrever o fl
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Entregáveis](#entregáveis)
-* [Tecnologias Usadas](# Tecnologias Usadas)
-* [Fluxo de Usuário](#Fluxo de Usuário)
-* [Personas]
-* [Cenários]
-* [Protótipos lo-fi]
-* [Protótipos hi-fi]
-* [Relatório]
-* [Aplicação Web]
-* [Vídeo de Apresentação]
+* [[#Qualquer Coisa]]
+* [[#Tecnologias Usadas]]
+* [[#Fluxo de Usuário]]
+* [[#Personas]]
+* [[#Cenários]]
+* [[#Protótipo lo-fi]]
+* [[#Protótipo hi-fi]]
+* [[#Relatório]]
+* [[#Aplicação Web]]
+* [[#Vídeo de Apresentação]]
 * [Autora](#autora)
-* [Licença](#licença)
-
 
 # Entregáveis 
 
-- [ ] Fluxo de Usuário
+- [x] Fluxo de Usuário
 - [ ] Personas
 - [ ] Cenários
-- [ ] Protótipo lo-fi
-- [ ] Protótipo hi-fi
+- [x] Protótipo lo-fi
+- [x] Protótipo hi-fi
 - [ ] Relatório
 - [ ] Aplicação Web
 - [ ] Vídeo de Apresentação
@@ -46,9 +45,9 @@ O termo Glow-up foi escolhido por ser uma gíria atual usada para descrever o fl
 - [draw.io](https://app.diagrams.net)
 - [Obsidian](https://obsidian.md)
 - [proto.io](https://proto.io)
+- [Tailwind CSS](https://tailwindcss.com)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Fluxo de Usuário
 
@@ -56,24 +55,45 @@ Os seguintes fluxos de usuário foram baseados nos modelos de tela cedidos pela 
 Uma vez que a recarga com dinheiro segue o mesmo fluxo da compra de bilhetes unitários dessa mesma modalidade, para fins de comodidade visual essa forma de pagamento não consta nos fluxos de recarga por mais que estejam presentes nos ATMs.
 
 ##### Bilhetes QR Code
-![Fluxo-QR-Code](../fluxo-de-usuario/qr-code)
+
+![[qr-code.png]]
+
+
 ##### Recarga Cartão TOP
-![Fluxo-TOP]()
+
+![[Fluxo TOP.png]]
+
 
 ##### Recarga Bilhete Único
-![Fluxo-Bilhete-Único](obsidian://open?vault=Autopass&file=Fluxo%20de%20Usu%C3%A1rio%2FFluxo%20Bilhete%20%C3%9Anico.png)
+
+![[Fluxo Bilhete Único.png]]
+
 
 
 # Personas
 
+As personas criadas para este projetos buscam ser o mais fiel possível às pessoas que todos os dias circulam pelas ruas de São Paulo, independente de etnia, gênero, classe social e frequência com a qual usa o transporte público. É impossível atender as demandas de todos os usuários, mas o maior esforço foi para incluir os mais diversos grupos nessas personas para que o projeto seja útil ao maior número de usuários possível.
+Além disso, todas as imagens utilizadas para os perfis são provenientes da plataforma ["This Person Does Not Exist"](https://this-person-does-not-exist.com/en) para que não sejam utilizadas fotos de pessoas reais.
+
+* [[Persona 1]]
+* [[Persona 2]]
+
 # Cenários
+Cada cenário criado corresponde a persona de respectivo número e, assim como estas, foram criados para serem os mais diversos e únicos.
+
+* [[Cenário 1]]
 
 # Protótipo lo-fi
 
 A criação do protótipo lo-fi foi feita a mão seguindo as ideias do fluxo de usuário. Apesar de rudimentar, foram acrescentados botões e houve algumas alterações de layout em relação ao projeto já existente. Também foram propostas algumas animações para as telas de carregamento para fixar a atenção do usuário e aumentar seu apreço pelo sistema.
 
-[Protótipo lo-fi](../Protótipo lo-fi/lo-fi.pdf)
+###### Acesse o protótipo aqui: [[Lo-fi.pdf]]
+
 # Protótipo hi-fi
+
+A criação do protótipo hi-fi foi feita por meio da plataforma proto.io e levou em conta aspectos do estado atual do projeto, os requisitos funcionais e as características das personas. Também foram levados em consideração fatores como adaptabilidade visual e cores para oferecer a melhor experiência para o usuário.
+
+###### Acesse o protótipo aqui: [[hi-fi.pdf]]
 
 # Relatório
 
@@ -102,7 +122,3 @@ A criação do protótipo lo-fi foi feita a mão seguindo as ideias do fluxo de 
 # Autora
 
 [Ana Clara Moraes - 321220389](https://github.com/kimanakim)
-
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
