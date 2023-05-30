@@ -54,7 +54,7 @@ Uma vez que a recarga com dinheiro segue o mesmo fluxo da compra de bilhetes uni
 
 ##### Bilhetes QR Code
 
-![[qr-code.png]]
+<img src="./fluxo-de-usuario/qr-code">
 
 
 ##### Recarga Cartão TOP
