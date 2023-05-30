@@ -54,17 +54,20 @@ Uma vez que a recarga com dinheiro segue o mesmo fluxo da compra de bilhetes uni
 
 ##### Bilhetes QR Code
 
-<img src="./fluxo-de-usuario/qr-code.png">
+
+<img src="./fluxo-de-usuario/qr-code.png" alt="Fluxo QR Code">
 
 
 ##### Recarga Cartão TOP
 
-![[Fluxo TOP.png]]
+
+<img src="./fluxo-de-usuario/Fluxo-Top.png" alt="Fluxo Top">
 
 
 ##### Recarga Bilhete Único
 
-![[Fluxo Bilhete Único.png]]
+
+<img src="./fluxo-de-usuario/Fluxo Bilhete Único.png" alt="Fluxo Bilhete Unico">
 
 
 
