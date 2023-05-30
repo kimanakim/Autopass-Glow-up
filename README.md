@@ -14,19 +14,18 @@ O termo Glow-up foi escolhido por ser uma gíria atual usada para descrever o fl
 
 # Índice/Sumário
 
-* [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
-* [Entregáveis](#Entreg%C3%A1veis)
-* [Tecnologias Usadas](#Tecnologias%20Usadas)
-* [Fluxo de Usuário](#Fluxo%20de%20Usu%C3%A1rio)
-* [[#Personas]]
-* [[#Cenários]]
-* [[#Protótipo lo-fi]]
-* [[#Protótipo hi-fi]]
-* [[#Relatório]]
-* [[#Aplicação Web]]
-* [[#Vídeo de Apresentação]]
-* [Autora](#autora)
+- [Índice/Sumário](#índicesumário)
+- [Entregáveis](#entregáveis)
+- [Tecnologias Usadas](#tecnologias-usadas)
+- [Fluxo de Usuário](#fluxo-de-usuário)
+- [Personas](#personas)
+- [Cenários](#cenários)
+- [Protótipo Lo-Fi](#protótipo-lo-fi)
+- [Protótipo Hi-Fi](#protótipo-hi-fi)
+- [Relatório](#relatório)
+- [Aplicação Web](#aplicação-web)
+- [Vídeo de Apresentação](#vídeo-de-apresentação)
+- [Autora](#autora)
 
 # Entregáveis 
 
