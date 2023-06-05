@@ -4,7 +4,7 @@
 ## Nome: Marcelo Cardoso
 
 ## Foto: 
-<img src="Persona1.png" width="100px" alt="Joana Rocha"/>
+<img src="Persona2.png" width="100px" alt="Marcelo Cardoso"/>
 
 
 ## Citação:
@@ -34,41 +34,41 @@ Intuição                                              �
 Julgador                                                                                                                                               Percepção
 
 ## Particularidades
-1. É metódica e perfeccionista;
-2. É voluntária em 3 ONGs;
-3. Desorienta-se quando algo atrapalha seus planos;
-4. Possui distúrbios mentais.
+1. Sempre tem os aparelhos eletrônicos mais novos do mercado;
+2. Cursa Engenharia Civil;
+3. Adora música;
+4. Sempre está na moda.
 
 ## Objetivos
-1. Ter mais mobilidade;
-2. Sentir-se parte da sociedade;
-3. Mostrar para a família que é capaz de cuidar de si.
+1. Concluir sua graduação;
+2. Conseguir um estágio em uma multinacional;
+3. Ir em todos os maiores festivais de música da cidade.
 
 ## Frustrações
-1. Ter que pedir ajuda para recarregar o cartão no ATM;
-2. Frequentemente se perde nas ruas de São Paulo;
-3. Não gosta que as pessoas sintam pena dela.
+1. Não conseguir gerenciar bem o seu dinheiro;
+2. Passar quatro horas do seu dia se locomovendo para estudar;
+3. Ter que pegar filas.
 
 ## Sobre
-Joana é mentalmente incapaz desde a juventude e nunca trabalhou. Mora com a mãe e é frequentemente visitada pelos irmãos que levam muito a sério seus tratamentos e cuidados. Além disso, Joana deseja mais autonomia e sente-se membro da sociedade quando utiliza o transporte público para passear e realizar seu trabalho voluntário. Porém, ela frequentemente enfrenta filas nos ATMs na hora de carregar seu cartão e isso causa um acesso de raiva que a impede de continuar com as atividades do seu dia, bem como sente-se confusa com a atual interface de carregamento. Essas duas situações preocupam sua família toda vez que acontecem e fazem com que tenham medo de que algo de mau aconteça com Joana no transporte público.
+Marcelo vem de uma família classe média alta e ainda mora com os pais, que de por causa dos perigos do trânsito, preferem que o filho vá para a faculdade de transporte público. Ele sempre teve contato com o mundo da música, pois seu pai é musicista clássico e por isso está sempre com os fones de ouvido escutando alguma canção. Além disso, Marcelo gosta de sempre estar na moda e ter as maiores novidades tecnológicas consigo, portanto quer um emprego administrativo em uma multinacional para ter uma renda mais elevada no futuro e poder arcar com esses gastos.
 
 ## Perfil Tecnológico
-Possui um smartphone cujo hardware não suporta tão bem as novas versões de aplicativos, além de não possuir domínio da tecnologia.
+Utiliza um smartphone topo de gama e um smartwatch. Tem amplo domínio das tecnologias e considera a rapidez e aspectos visuais as coisas mais importantes.
 
 ## Motivações
 
-██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
-.                                                                                                                                              Incentivo
+████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+.                                                                                                                                                       Incentivo
 
-█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
 .                                                                                                                                   
 Medo
 
-█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+████████████████████████████████████████░░░░░░░░░░░░░░░░<br> 
 .                                                                                                                                   
 Crescimento
 
-███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
 .                                                                                                                                   
 Força
 
@@ -78,19 +78,19 @@ Social
 
 
 ## Marcas & Influência
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatelinha.uol.com.br%2Ffamosos%2Ftudo-sobre%2Fana-maria-braga&psig=AOvVaw23iNW9ZujWkNnqA09eV4SR&ust=1683632080438000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD7xLPQ5f4CFQAAAAAdAAAAABAD" width= "100px" alt="Ana Maria Braga">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width= "100px" alt="Apple">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgkpb.com.br%2F51854%2Fnovo-logo-o-boticario%2F&psig=AOvVaw1MmM-u_xwrq3mjsHtDU2A0&ust=1683632111221000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDMzsHQ5f4CFQAAAAAdAAAAABAD" width= "100px" alt="O Boticário">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Levis-logo-quer.svg/2560px-Levis-logo-quer.svg.png" width= "100px" alt="Levi's">
 
 
 ## Canais Preferidos
 
 ### Anúncios Tradicionais
-███████████████████████████████████████░░░░░░░░░░░░░░░░<br>
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
 
 ### Online e Redes Sociais
-███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+██████████████████████████████████████████████████░░░░<br>
 ### Referências
-████████████████████████████████████████████████░░░░░░<br>
+█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
 ### Relações Públicas
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>

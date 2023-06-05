@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Personas/Persona 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Personas/Persona 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Personas/Persona 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Personas/Persona 4.md"
               }
             }
           }
@@ -146,14 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34369f5e9857cbb2",
+  "active": "0275dfa0d6d934b5",
   "lastOpenFiles": [
+    "Personas/Persona 3.md",
+    "Personas/Persona 4.md",
+    "Personas/Persona1.png",
+    "Personas/Persona4.png",
+    "Personas/Captura de Tela 2023-06-05 às 15.12.30.png",
+    "Personas/Captura de Tela 2023-06-05 às 15.10.52.png",
+    "Captura de Tela 2023-06-05 às 15.10.52.png",
+    "Personas/Persona 2.md",
+    "README.md",
     "Protótipo hi-fi/hi-fi.pdf",
     "Protótipo lo-fi/Lo-fi.pdf",
-    "README.md",
     "Personas/Persona 1.md",
-    "Qualquer Coisa.md",
-    "Personas/Persona 2.md",
-    "Personas/Persona1.png"
+    "Qualquer Coisa.md"
   ]
 }
