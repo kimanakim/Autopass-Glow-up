@@ -14,20 +14,18 @@ O termo Glow-up foi escolhido por ser uma gíria atual usada para descrever o fl
 
 # Índice/Sumário
 
-* [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
-* [Entregáveis](#entregáveis)
-* [[#Qualquer Coisa]]
-* [[#Tecnologias Usadas]]
-* [[#Fluxo de Usuário]]
-* [[#Personas]]
-* [[#Cenários]]
-* [[#Protótipo lo-fi]]
-* [[#Protótipo hi-fi]]
-* [[#Relatório]]
-* [[#Aplicação Web]]
-* [[#Vídeo de Apresentação]]
-* [Autora](#autora)
+- [Índice/Sumário](#índicesumário)
+- [Entregáveis](#entregáveis)
+- [Tecnologias Usadas](#tecnologias-usadas)
+- [Fluxo de Usuário](#fluxo-de-usuário)
+- [Personas](#personas)
+- [Cenários](#cenários)
+- [Protótipo Lo-Fi](#protótipo-lo-fi)
+- [Protótipo Hi-Fi](#protótipo-hi-fi)
+- [Relatório](#relatório)
+- [Aplicação Web](#aplicação-web)
+- [Vídeo de Apresentação](#vídeo-de-apresentação)
+- [Autora](#autora)
 
 # Entregáveis 
 
@@ -56,17 +54,20 @@ Uma vez que a recarga com dinheiro segue o mesmo fluxo da compra de bilhetes uni
 
 ##### Bilhetes QR Code
 
-![[qr-code.png]]
+
+<img src="./fluxo-de-usuario/qr-code.png" alt="Fluxo QR Code">
 
 
 ##### Recarga Cartão TOP
 
-![[Fluxo TOP.png]]
+
+<img src="./fluxo-de-usuario/Fluxo TOP.png" alt="Fluxo TOP">
 
 
 ##### Recarga Bilhete Único
 
-![[Fluxo Bilhete Único.png]]
+
+<img src="./fluxo-de-usuario/Fluxo Bilhete Único.png" alt="Fluxo Bilhete Unico">
 
 
 
@@ -75,25 +76,25 @@ Uma vez que a recarga com dinheiro segue o mesmo fluxo da compra de bilhetes uni
 As personas criadas para este projetos buscam ser o mais fiel possível às pessoas que todos os dias circulam pelas ruas de São Paulo, independente de etnia, gênero, classe social e frequência com a qual usa o transporte público. É impossível atender as demandas de todos os usuários, mas o maior esforço foi para incluir os mais diversos grupos nessas personas para que o projeto seja útil ao maior número de usuários possível.
 Além disso, todas as imagens utilizadas para os perfis são provenientes da plataforma ["This Person Does Not Exist"](https://this-person-does-not-exist.com/en) para que não sejam utilizadas fotos de pessoas reais.
 
-* [[Persona 1]]
-* [[Persona 2]]
+* <a href="Personas/Persona 1.md">Persona 1
+* <a href="Personas/Persona 2.md">Persona 2
 
 # Cenários
 Cada cenário criado corresponde a persona de respectivo número e, assim como estas, foram criados para serem os mais diversos e únicos.
 
-* [[Cenário 1]]
+* <a href="Cenários/Cenário 1.md">Cenário 1
 
 # Protótipo lo-fi
 
 A criação do protótipo lo-fi foi feita a mão seguindo as ideias do fluxo de usuário. Apesar de rudimentar, foram acrescentados botões e houve algumas alterações de layout em relação ao projeto já existente. Também foram propostas algumas animações para as telas de carregamento para fixar a atenção do usuário e aumentar seu apreço pelo sistema.
 
-###### Acesse o protótipo aqui: [[Lo-fi.pdf]]
+###### Acesse o protótipo <a href="Protótipo lo-fi/Lo-fi.pdf">aqui
 
 # Protótipo hi-fi
 
 A criação do protótipo hi-fi foi feita por meio da plataforma proto.io e levou em conta aspectos do estado atual do projeto, os requisitos funcionais e as características das personas. Também foram levados em consideração fatores como adaptabilidade visual e cores para oferecer a melhor experiência para o usuário.
 
-###### Acesse o protótipo aqui: [[hi-fi.pdf]]
+###### Acesse o protótipo <a href="Protótipo hi-fi/hi-fi.pdf">aqui
 
 # Relatório
 
