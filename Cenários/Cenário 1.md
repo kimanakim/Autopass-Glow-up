@@ -1,8 +1,8 @@
 
-**Ator:** [Persona 1 - Joana Rocha](Persona%201.md)<br/>
+**Ator:** <a href="Personas/Persona 1.md">Persona 1 - Joana Rocha<br/>
 **Contexto:** Indo para o trabalho voluntário na quarta-feira a tarde.<br/>
 **Evento:** Entrando na estação de metrô.<br/>
-**Objeto:** Carregar o cartão e ir para o trabalho voluntário.<br/>
+**Objetivo:** Carregar o cartão e ir para o trabalho voluntário.<br/>
 **Plano:** Durante o caminho, antes da catraca, recarregar o cartão.<br/>
 **Ação:** Havia três pessoas na sua frente, mas deixou uma mulher grávida passar na sua frente.<br/>
 **Avaliação:** Demorou mais que o esperado e ficou transtornada, atrapalhando a utilização da máquina.<br/>

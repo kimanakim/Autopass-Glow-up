@@ -1,63 +1,63 @@
 
-## Personagem: O descolado
+## Personagem: O jogador
 
-## Nome: Marcelo Cardoso
+## Nome: Luan Souza
 
 ## Foto: 
-<img src="Persona2.png" width="300px" alt="Marcelo Cardoso"/>
+<img src="Persona7.png" width="300px" alt="Luan Souza"/>
 
 
 ## Citação:
 
-> "You only live once!"
+> "Roubou minha kill!" -Qualquer jogador de Fortnite
 
 ##Características:
-**Idade:** 21 anos<br> 
+**Idade:** 12 anos<br> 
 **Sexo:** Masculino<br> 
 **Estado Civil:** Solteiro<br> 
 **Filhos:** Não<br> 
 **Ocupação:** Estudante<br> 
-**Educação:** Ensino Superior Incompleto
+**Educação:** Ensino fundamental incompleto
 
 ## Personalidade
 
-█████████████████████████████████░░░░░░░░░░░░░░░░░░br> 
+█████████████████████████████████░░░░░░░░░░░░░░░░░░<br> 
 Introvertido                                                                                                                                               Extrovertido
 
-██████████████████████████████░░░░░░░░░░░░░░░░░░░░░<br> 
+██████████████████████████████████░░░░░░░░░░░░░░░░░<br> 
 Razão                                                                                                                                               Emoção
 
 ███████████████████████████████████████░░░░░░░░░░░<br> 
 Intuição                                                                                                                                               Detecção
 
-█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+██████████████████████████████████████████░░░░░░░░<br> 
 Julgador                                                                                                                                               Percepção
 
 ## Particularidades
-1. Sempre tem os aparelhos eletrônicos mais novos do mercado;
-2. Cursa Engenharia Civil;
-3. Adora música;
-4. Sempre está na moda.
+1. Joga Fortnite durante a maior parte do dia;
+2. Sempre está junto de seu grupo de quatro amigos;
+3. Vem de uma família rígida;
+4. Tira boas notas na escola.
 
 ## Objetivos
-1. Concluir sua graduação;
-2. Conseguir um estágio em uma multinacional;
-3. Ir em todos os maiores festivais de música da cidade.
+1. Tornar-se jogador profissional;
+2. Fugir da escola;
+3. Ser o melhor jogador de Fortnite do mundo.
 
 ## Frustrações
-1. Não conseguir gerenciar bem o seu dinheiro;
-2. Passar quatro horas do seu dia se locomovendo para estudar;
-3. Ter que pegar filas.
+1. Odeia perder;
+2. Não suporta mais que o esperado para chegar em casa;
+3. Odeia quando os pais são chamados na escola.
 
 ## Sobre
-Marcelo vem de uma família classe média alta e ainda mora com os pais, que de por causa dos perigos do trânsito, preferem que o filho vá para a faculdade de transporte público. Ele sempre teve contato com o mundo da música, pois seu pai é musicista clássico e por isso está sempre com os fones de ouvido escutando alguma canção. Além disso, Marcelo gosta de sempre estar na moda e ter as maiores novidades tecnológicas consigo, portanto quer um emprego administrativo em uma multinacional para ter uma renda mais elevada no futuro e poder arcar com esses gastos.
+Lucas está no 7º ano do ensino fundamental e é uma grande contradição: ao mesmo tempo que seus pais são chamados com frequência na escola por causa de suas travessuras, ele consegue tirar excelentes notas. Além disso, em qualquer momento livre do seu dia Gustavo está jogando Fortnite com seus amigos, por isso não gosta de perder tempo na rua. Gustavo vai e volta da escola utilizando transporte público e faz recargas quinzenalmente.
 
 ## Perfil Tecnológico
-Utiliza um smartphone topo de gama e um smartwatch. Tem amplo domínio das tecnologias e considera a rapidez e aspectos visuais as coisas mais importantes.
+Tem um smartphone e um computador. Possui amplo domínio tecnológico.
 
 ## Motivações
 
-████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
 .                                                                                                                                                       Incentivo
 
 ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
@@ -68,19 +68,19 @@ Medo
 .                                                                                                                                   
 Crescimento
 
-████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+██████████████████████████████████████████░░░░░░░░░░░░░░<br>
 .                                                                                                                                   
 Força
 
-████████████████████████████████████████████████░░░░░░<br> 
+███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
 .                                                                                                                                   
 Social
 
 
 ## Marcas & Influência
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width= "100px" alt="Apple">
+<img src="https://i.pinimg.com/originals/c2/0d/21/c20d2168ee2dbaecae37c903ab1b99a2.jpg" width= "300px" alt="Fortnite">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Levis-logo-quer.svg/2560px-Levis-logo-quer.svg.png" width= "100px" alt="Levi's">
+<img src="https://images.squarespace-cdn.com/content/v1/5c1175511137a62a8282f3d5/1627508143115-96P25V8WAO3JD5T6YKOB/top-streamers_R1_01.jpg" width= "300px" alt="Streamers de Fortnite">
 
 
 ## Canais Preferidos
@@ -91,6 +91,6 @@ Social
 ### Online e Redes Sociais
 ██████████████████████████████████████████████████░░░░<br>
 ### Referências
-█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
 ### Relações Públicas
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>

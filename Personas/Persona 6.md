@@ -1,61 +1,66 @@
 
-## Personagem: A Impaciente
+## Personagem: O animado
 
-## Nome: Joana Rocha
+## Nome: Antônio Pires
 
 ## Foto: 
 
 
-<img src="Persona1.png" width="300px" alt="Joana Rocha"/>
+<img src="Persona6.png" width="300px" alt="Antônio Pires"/>
 
 
 ## Citação:
 
-> "Virtude Sem caridade não passa de nome” Isaac Newton
+> "Sair de que jeito se nem sei o rumo para onde vou  
+Muito vagamente me lembro que estou  
+Em uma boate aqui na zona sul  
+Eu bebi demais e não consigo me lembrar sequer  
+Qual era o nome daquela mulher  
+A flor da noite na boate azul" -Boate Azul
 
 ##Características:
-**Idade:** 55 anos<br> 
-**Sexo:** Feminino<br> 
-**Estado Civil:** Solteira<br> 
-**Filhos:** Não<br> 
-**Ocupação:** Interditada<br> 
-**Educação:** Ensino Superior Completo
+**Idade:** 62 anos<br> 
+**Sexo:** Masculino<br> 
+**Estado Civil:** Casado<br> 
+**Filhos:** Maicon (35), Ricardo (32), Keila (28), Júnior (27), Robson (17), Mikaelly (12)<br> 
+**Ocupação:** Aposentado<br> 
+**Educação:** nenhuma
 
 ## Personalidade
 
-████████████████████████████████████████████████<br> 
+█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
 Introvertido                                                                                                                                               Extrovertido
 
-██████████████████████████████░░░░░░░░░░░░░░░░░░░░░<br> 
+███████████████████████████████████████████░░░░░░<br> 
 Razão                                                                                                                                               Emoção
 
-███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
 Intuição                                                                                                                                               Detecção
 
-█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
 Julgador                                                                                                                                               Percepção
 
 ## Particularidades
-1. É metódica e perfeccionista;
-2. É voluntária em 3 ONGs;
-3. Desorienta-se quando algo atrapalha seus planos;
-4. Possui distúrbios mentais.
+1. É analfabeto funcional;
+2. Era encanador antes de se aposentar;
+3. Dança forró todas as sextas-feiras;
+4. Tem gota.
 
 ## Objetivos
-1. Ter mais mobilidade;
-2. Sentir-se parte da sociedade;
-3. Mostrar para a família que é capaz de cuidar de si.
+1. Reformar sua casa;
+2. Seus dois filhos mais novos fazerem faculdade;
+3. Ganhar na loteria.
 
 ## Frustrações
-1. Ter que pedir ajuda para recarregar o cartão no ATM;
-2. Frequentemente se perde nas ruas de São Paulo;
-3. Não gosta que as pessoas sintam pena dela.
+1. Não compreender o que lê;
+2. Precisar fazer bicos para completar a renda;
+3. Não poder pagar uma educação de qualidade para os filhos.
 
 ## Sobre
-Joana é mentalmente incapaz desde a juventude e nunca trabalhou. Mora com a mãe e é frequentemente visitada pelos irmãos que levam muito a sério seus tratamentos e cuidados. Além disso, Joana deseja mais autonomia e sente-se membro da sociedade quando utiliza o transporte público para passear e realizar seu trabalho voluntário. Porém, ela frequentemente enfrenta filas nos ATMs na hora de carregar seu cartão e isso causa um acesso de raiva que a impede de continuar com as atividades do seu dia, bem como sente-se confusa com a atual interface de carregamento. Essas duas situações preocupam sua família toda vez que acontecem e fazem com que tenham medo de que algo de mau aconteça com Joana no transporte público.
+Antônio é um encanador aposentado que ainda faz bicos para sustentar sua família e ajudar seus filhos mais velhos. Por não ter acessado a educação, deseja que seus filhos estudem e tenham empregos estáveis e não precisem mais de sua ajuda. Com o dinheiro que sobra, Antônio guarda para reformar sua casa e para sair para dançar forró com sua esposa. Por mais que ele não consiga ler, não tem vergonha de perguntar e pedir ajuda para as pessoas e sempre tem um sorriso no rosto.
 
 ## Perfil Tecnológico
-Possui um smartphone cujo hardware não suporta tão bem as novas versões de aplicativos, além de não possuir domínio da tecnologia.
+Usa um celular antigo. Não possui domínio tecnológico.
 
 ## Motivações
 
@@ -80,9 +85,9 @@ Social
 
 
 ## Marcas & Influência
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatelinha.uol.com.br%2Ffamosos%2Ftudo-sobre%2Fana-maria-braga&psig=AOvVaw23iNW9ZujWkNnqA09eV4SR&ust=1683632080438000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD7xLPQ5f4CFQAAAAAdAAAAABAD" width= "100px" alt="Ana Maria Braga">
+<img src="https://logosmarcas.net/wp-content/uploads/2020/08/Bosch-Logo.png" width= "100px" alt="Bosch">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgkpb.com.br%2F51854%2Fnovo-logo-o-boticario%2F&psig=AOvVaw1MmM-u_xwrq3mjsHtDU2A0&ust=1683632111221000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDMzsHQ5f4CFQAAAAAdAAAAABAD" width= "100px" alt="O Boticário">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cantor_Gonzaguinha_em_1988.jpg" width= "100px" alt="Gonzaguinha">
 
 
 ## Canais Preferidos
@@ -91,7 +96,7 @@ Social
 ███████████████████████████████████████░░░░░░░░░░░░░░░░<br>
 
 ### Online e Redes Sociais
-███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
 ### Referências
 ████████████████████████████████████████████████░░░░░░<br>
 ### Relações Públicas

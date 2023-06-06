@@ -78,11 +78,19 @@ Além disso, todas as imagens utilizadas para os perfis são provenientes da pla
 
 * <a href="Personas/Persona 1.md">Persona 1
 * <a href="Personas/Persona 2.md">Persona 2
+* <a href="Personas/Persona 3.md">Persona 3
+* <a href="Personas/Persona 4.md">Persona 4
+* <a href="Personas/Persona 5.md">Persona 5
+* <a href="Personas/Persona 6.md">Persona 6
+* <a href="Personas/Persona 7.md">Persona 7
 
 # Cenários
 Cada cenário criado corresponde a persona de respectivo número e, assim como estas, foram criados para serem os mais diversos e únicos.
 
 * <a href="Cenários/Cenário 1.md">Cenário 1
+* <a href="Cenários/Cenário 2.md">Cenário 2
+* <a href="Cenários/Cenário 3.md">Cenário 3
+* <a href="Cenários/Cenário 4.md">Cenário 4
 
 # Protótipo lo-fi
 

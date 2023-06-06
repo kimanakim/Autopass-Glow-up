@@ -1,22 +1,22 @@
 
-## Personagem: O trabalhador
+## Personagem: A turista
 
-## Nome: José Gustavo Mendes
+## Nome: Nina Carter
 ## Foto: 
-<img src="Persona4.png" width="300px" alt="José Gustavo Mendes"/>
+<img src="Persona5.png" width="300px" alt="Nina Carter"/>
 
 
 ## Citação:
 
->"Que a força esteja com você" -Obi-Wan Kenobi
+>"Talvez a verdade seja uma questão de ponto de vista e a mentira um ser mutável que igual à larva da borboleta com o tempo torna-se aceitável, ficando a critério de cada um escolher a sua verdade... A mais agradável!" -O Mundo de Sofia
 
 ##Características:
-**Idade:** 52 anos<br> 
-**Sexo:** Masculino<br> 
-**Estado Civil:** casado<br> 
-**Filhos:** Lúcio (25) e Alice (22)<br> 
-**Ocupação:** Gerente de Investimentos<br> 
-**Educação:** Mestrado em Economiaa
+**Idade:** 28 anos<br> 
+**Sexo:** Feminino<br> 
+**Estado Civil:** solteira<br> 
+**Filhos:** não possui<br> 
+**Ocupação:** Antropóloga<br> 
+**Educação:** cursando PhD
 
 ## Personalidade
 
@@ -29,37 +29,37 @@ Razão                                                 
 ███████████████████████████████████████░░░░░░░░░░░<br> 
 Intuição                                                                                                                                               Detecção
 
-████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+██████████████████████████████░░░░░░░░░░░░░░░░░░░░░<br> 
 Julgador                                                                                                                                               Percepção
 
 ## Particularidades
-1. Possui baixa visão;
-2. É fanático por ficção científica;
-3. Seus filhos estudam em outra cidade;
-4. Viaja todos os anos para o exterior.
+1. É britânica, mas foi educada nos Estados Unidos;
+2. Não sabe falar português;
+3. Está em São Paulo para dar uma palestra;
+4. Sempre está com um livro na mão.
 
 ## Objetivos
-1. Aumentar sua coleção de Action Figures;
-2. Visitar os filhos com mais frequência;
-3. Trazer mais visibilidade para deficientes visuais.
+1. Ler 100 livros por ano;
+2. Concluir seu PhD;
+3. Visitar todas as capitais do mundo.
 
 ## Frustrações
-1. A maior parte das interfaces de todas as aplicações que usa não são adaptadas para pessoas com deficiência visual;
-2. Quando sai do trabalho a loja de Action Figures está quase fechando e muitas vezes não consegue chegar lá a tempo;
-3. Sente falta de passar mais tempo com os filhos.
+1. Não gosta que a tecnologia esteja substituindo as pessoas;
+2. Não poder passar mais tempo nos países que visita;
+3. Detesta passar mais tempo que o necessário em lugares muito cheios.
 
 ## Sobre
-José Gustavo é um homem de classe alta, porém depende do transporte público pois sua deficiência o impede de dirigir. Todavia, ele não se importa de usar o metrô pois trabalha muito próximo de onde mora e a região é bem servida de transportes. Desde a infância, José adora histórias de ficção científica e sempre que pode participa de eventos e adquire quadrinhos das suas sagas favoritas. Seus filhos compartilham da mesma paixão, mas como moram em outro estado já não conseguem ir às compras com tanta frequência.
+Nina Carter é uma antropóloga que viaja o mundo para palestrar sobre as suas pesquisas acerca dos povos indígenas da América do Sul. Filha de pai britânico e mãe colombiana, Nina foi criada em um ambiente multicultural e adora apreciar outras culturas e conviver com diferentes pessoas de diferentes lugares. Porém, Nina sente-se incomodada com alguns avanços tecnológicos que impedem que ela socialize com mais pessoas no seu dia a dia.
 
 ## Perfil Tecnológico
-Possui um smartphone e sabe usá-lo bem, na medida do possível. A sua baixa visão faz com que seja difícil utilizar alguns aplicativos, mas aqueles que possuem o modo de acessibilidade adaptado para ele normalmente são fáceis de serem aprendidos.
+Possui um smartphone, mas sente-se mais confortável utilizando o computador. Sabe usar as tecnologias, mas prefere resolver as coisas sem o intermédio de máquina.
 
 ## Motivações
 
 ████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░<br> 
 .                                                                                                                                                       Incentivo
 
-██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+███████████████████████████████████████████░░░░░░░░░░░░<br> 
 .                                                                                                                                   
 Medo
 
@@ -71,15 +71,15 @@ Crescimento
 .                                                                                                                                   
 Força
 
-█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
+████████████████████████████████████████░░░░░░░░░░░░░░░░<br> 
 .                                                                                                                                   
 Social
 
 
 ## Marcas & Influência
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1200px-Star_Wars_Logo.svg.png" width= "100px" alt="Star Wars">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nature_volume_536_number_7617_cover_displaying_an_artist’s_impression_of_Proxima_Centauri_b.jpg" width= "100px" alt="Revista Nature">
 
-<img src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b03e2c324436412364119d6f36e4ade896922ca99f47a4c8900f4ab438daea00._RI_TTW_.jpg" width= "100px" alt="The Orville">
+<img src="https://www.e-cultura.pt/images/user/image15796255313053.jpg" width= "100px" alt="Claude Lévi-Strauss">
 
 
 ## Canais Preferidos
@@ -88,8 +88,8 @@ Social
 ███████████████████████████████████████░░░░░░░░░░░░░░░░<br>
 
 ### Online e Redes Sociais
-███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
 ### Referências
-█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+██████████████████████████████████████████░░░░░░░░░░░░░<br>
 ### Relações Públicas
-████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░<br>
+████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░<br>

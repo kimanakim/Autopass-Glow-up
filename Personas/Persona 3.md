@@ -3,7 +3,7 @@
 
 ## Nome: Jaqueline Gonçalves
 ## Foto: 
-<img src="Persona3.png" width="100px" alt="Jaqueline Gonçalves"/>
+<img src="Persona3.png" width="300px" alt="Jaqueline Gonçalves"/>
 
 
 ## Citação:
