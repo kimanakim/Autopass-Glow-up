@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cenários/Cenário 4.md",
+                "file": "Cenários/Cenário 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cenários/Cenário 4.md",
+                "file": "Cenários/Cenário 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cenários/Cenário 4.md",
+                "file": "Cenários/Cenário 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cenários/Cenário 4.md"
+                "file": "Cenários/Cenário 7.md"
               }
             }
           }
@@ -148,18 +148,21 @@
   },
   "active": "e5ab551ebad011ba",
   "lastOpenFiles": [
-    "README.md",
-    "Cenários/Cenário 4.md",
+    "Cenários/Cenário 1.md",
     "Personas/Persona 7.md",
+    "Cenários/Cenário 7.md",
+    "Cenários/Cenário 6.md",
+    "Cenários/Cenário 5.md",
     "Personas/Persona 6.md",
+    "Personas/Persona 5.md",
+    "Cenários/Cenário 4.md",
+    "README.md",
     "Cenários/Cenário 3.md",
     "Cenários/Cenário 2.md",
-    "Cenários/Cenário 1.md",
     "Personas/Persona 1.md",
     "Personas/Persona 2.md",
     "Personas/Persona 3.md",
     "Personas/Persona 4.md",
-    "Personas/Persona 5.md",
     "Personas/Persona7.png",
     "Personas/Persona1.png",
     "Personas/Persona6.png",
