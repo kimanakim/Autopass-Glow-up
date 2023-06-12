@@ -118,12 +118,8 @@ A aplicação web desenvolvida para esse projeto leva em consideração os requi
 
 # Vídeo de Apresentação
 
-
-<div style="position: relative; padding-bottom: 62.5%; height: 0;">
-<iframe src="https://www.loom.com/embed/3c21feda33d24e058aeca4553b96432c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
-
+[![Assista o vídeo](https://cdn.loom.com/sessions/thumbnails/3c21feda33d24e058aeca4553b96432c-with-play.gif)](https://www.loom.com/share/3c21feda33d24e058aeca4553b96432c)
 
 # Autora
 
-<a href="https://github.com/kimanakim">"Ana Clara Moraes"
+<a href="https://github.com/kimanakim">Ana Clara Moraes
