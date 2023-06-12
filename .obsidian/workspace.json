@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cenários/Cenário 7.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cenários/Cenário 7.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cenários/Cenário 7.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cenários/Cenário 7.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,19 +148,23 @@
   },
   "active": "e5ab551ebad011ba",
   "lastOpenFiles": [
+    "Personas/Persona 2.md",
+    "README.md",
+    "fluxo-de-usuario/Fluxo Bilhete Único.png",
+    "fluxo-de-usuario/Fluxo TOP.png",
+    "fluxo-de-usuario/qr-code.png",
+    "Relatório",
+    "Cenários/Cenário 7.md",
     "Cenários/Cenário 1.md",
     "Personas/Persona 7.md",
-    "Cenários/Cenário 7.md",
     "Cenários/Cenário 6.md",
     "Cenários/Cenário 5.md",
     "Personas/Persona 6.md",
     "Personas/Persona 5.md",
     "Cenários/Cenário 4.md",
-    "README.md",
     "Cenários/Cenário 3.md",
     "Cenários/Cenário 2.md",
     "Personas/Persona 1.md",
-    "Personas/Persona 2.md",
     "Personas/Persona 3.md",
     "Personas/Persona 4.md",
     "Personas/Persona7.png",
@@ -170,9 +174,6 @@
     "Captura de Tela 2023-06-06 às 14.22.05.png",
     "Personas/Persona5.png",
     "Personas/Persona4.png",
-    "Personas/Captura de Tela 2023-06-05 às 15.12.30.png",
-    "Personas/Captura de Tela 2023-06-05 às 15.10.52.png",
-    "Captura de Tela 2023-06-05 às 15.10.52.png",
     "Protótipo hi-fi/hi-fi.pdf",
     "Protótipo lo-fi/Lo-fi.pdf",
     "Qualquer Coisa.md"

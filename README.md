@@ -8,9 +8,6 @@
 O projeto Autopass Glow-up consiste em uma releitura das atuais telas dos ATMs da marca com a finalidade de moderniza-los e aprimorar a experiência de seus diversos grupos de usuários.
 O termo Glow-up foi escolhido por ser uma gíria atual usada para descrever o florescimento ou "embelezamento" de uma pessoa, ou seja, meu maior desejo é dar uma "cara nova" ao que já existe valendo-me dos recentes conceitos de UI e UX.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
@@ -30,13 +27,13 @@ O termo Glow-up foi escolhido por ser uma gíria atual usada para descrever o fl
 # Entregáveis 
 
 - [x] Fluxo de Usuário
-- [ ] Personas
-- [ ] Cenários
+- [x] Personas
+- [x] Cenários
 - [x] Protótipo lo-fi
 - [x] Protótipo hi-fi
-- [ ] Relatório
-- [ ] Aplicação Web
-- [ ] Vídeo de Apresentação
+- [x] Relatório
+- [x] Aplicação Web
+- [x] Vídeo de Apresentação
 
 # Tecnologias Usadas
 
@@ -91,6 +88,9 @@ Cada cenário criado corresponde a persona de respectivo número e, assim como e
 * <a href="Cenários/Cenário 2.md">Cenário 2
 * <a href="Cenários/Cenário 3.md">Cenário 3
 * <a href="Cenários/Cenário 4.md">Cenário 4
+* <a href="Cenários/Cenário 5.md">Cenário 5
+* <a href="Cenários/Cenário 6.md">Cenário 6
+* <a href="Cenários/Cenário 7.md">Cenário 7
 
 # Protótipo lo-fi
 
@@ -106,28 +106,24 @@ A criação do protótipo hi-fi foi feita por meio da plataforma proto.io e levo
 
 # Relatório
 
+O relatório a seguir conta com a avaliação do cumprimento das Heurísticas de Nielsen bem como com a pontuação do System Usability Scale (SUS). As Heurísticas foram baseadas no protótipo hi-fi do produto, portanto a avaliação foi levada em consideração para a elaboração da aplicação web. Além disso, a pontuação SUS teve como fonte apenas uma resposta, já que este trabalho foi feito individualmente.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
-
+###### Acesse o relatório <a href="Relatório/Relatório.pdf">aqui
 
 # Aplicação Web
 
+A aplicação web desenvolvida para esse projeto leva em consideração os requisitos levantados, o estudo das heurísticas e a pré-avaliação realizada com os professores e a representante da Autopass. Contudo, algumas funções como o botão de ajuda e acessibilidade não puderam ser implementadas devido ao tempo escasso.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
-
+###### Acesse a aplicação web <a href="app-web">aqui
 
 # Vídeo de Apresentação
 
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;">
+<iframe src="https://www.loom.com/embed/3c21feda33d24e058aeca4553b96432c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 # Autora
 
-[Ana Clara Moraes - 321220389](https://github.com/kimanakim)
+<a href="https://github.com/kimanakim">"Ana Clara Moraes"
